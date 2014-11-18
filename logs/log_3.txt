@@ -1,0 +1,99 @@
+
+2014_11_17 11:53:58  Fatal_error:Class 'product1' not found_F:\xampp\htdocs\mvc\index.php line:13
+2014_11_17 11:53:59  Fatal_error:Class 'product1' not found_F:\xampp\htdocs\mvc\index.php line:13
+2014_11_17 11:55:20  Fatal_error:Class 'product1' not found_F:\xampp\htdocs\mvc\index.php line:13
+2014_11_17 01:37:56  Fatal_error:Uncaught exception 'ErrorException' with message 'Array to string conversion' in F:\xampp\htdocs\mvc\index.php:21
+Stack trace:
+#0 F:\xampp\htdocs\mvc\index.php(21): exception_error_handler(8, 'Array to string...', 'F:\xampp\htdocs...', 21, Array)
+#1 {main}
+  thrown_F:\xampp\htdocs\mvc\index.php line:21
+2014_11_17 01:38:19  Fatal_error:Uncaught exception 'ErrorException' with message 'Array to string conversion' in F:\xampp\htdocs\mvc\system\log.php:31
+Stack trace:
+#0 F:\xampp\htdocs\mvc\system\log.php(31): exception_error_handler(8, 'Array to string...', 'F:\xampp\htdocs...', 31, Array)
+#1 F:\xampp\htdocs\mvc\index.php(23): System_Log::record(Array)
+#2 {main}
+  thrown_F:\xampp\htdocs\mvc\system\log.php line:31
+2014_11_17 01:42:21 error_type:0 error_message:Undefined variable: a error_file:F:\xampp\htdocs\mvc\index.php error_line:15
+2014_11_17 01:44:57 error_type:0 Undefined variable: a F:\xampp\htdocs\mvc\index.php 14
+2014_11_17 01:53:20  Fatal_error:Uncaught exception 'ErrorException' with message 'Array to string conversion' in F:\xampp\htdocs\mvc\index.php:15
+Stack trace:
+#0 F:\xampp\htdocs\mvc\index.php(15): exception_error_handler(8, 'Array to string...', 'F:\xampp\htdocs...', 15, Array)
+#1 {main}
+  thrown_F:\xampp\htdocs\mvc\index.php line:15
+2014_11_17 01:54:08  Fatal_error:Uncaught exception 'ErrorException' with message 'Array to string conversion' in F:\xampp\htdocs\mvc\system\log.php:31
+Stack trace:
+#0 F:\xampp\htdocs\mvc\system\log.php(31): exception_error_handler(8, 'Array to string...', 'F:\xampp\htdocs...', 31, Array)
+#1 F:\xampp\htdocs\mvc\index.php(16): System_Log::record(Array)
+#2 {main}
+  thrown_F:\xampp\htdocs\mvc\system\log.php line:31
+2014_11_17 01:57:17  Fatal_error:Class 'product1' not found_F:\xampp\htdocs\mvc\index.php line:12
+2014_11_17 01:58:23  Fatal_error:Class 'Controller_product1' not found_F:\xampp\htdocs\mvc\route\route.php line:12
+2014_11_17 02:04:04  Fatal_error:Uncaught exception 'ErrorException' with message 'Array to string conversion' in F:\xampp\htdocs\mvc\system\log.php:31
+Stack trace:
+#0 F:\xampp\htdocs\mvc\system\log.php(31): exception_error_handler(8, 'Array to string...', 'F:\xampp\htdocs...', 31, Array)
+#1 F:\xampp\htdocs\mvc\index.php(16): System_Log::record(Array)
+#2 {main}
+  thrown_F:\xampp\htdocs\mvc\system\log.php line:31
+2014_11_17 02:04:15  Fatal_error:Uncaught exception 'ErrorException' with message 'Array to string conversion' in F:\xampp\htdocs\mvc\system\log.php:31
+Stack trace:
+#0 F:\xampp\htdocs\mvc\system\log.php(31): exception_error_handler(8, 'Array to string...', 'F:\xampp\htdocs...', 31, Array)
+#1 F:\xampp\htdocs\mvc\index.php(16): System_Log::record(Array)
+#2 {main}
+  thrown_F:\xampp\htdocs\mvc\system\log.php line:31
+2014_11_17 02:05:11 error_type:0 Undefined variable: a F:\xampp\htdocs\mvc\index.php 12
+2014_11_17 02:05:54  Fatal_error:Class 'Controller_product1' not found_F:\xampp\htdocs\mvc\route\route.php line:12
+2014_11_17 02:07:15  Fatal_error:Class 'Controller_product1' not found_F:\xampp\htdocs\mvc\route\route.php line:12
+2014_11_17 02:08:13 error_type:0 Undefined variable: a F:\xampp\htdocs\mvc\index.php 12
+2014_11_17 02:09:02 #0 F:\xampp\htdocs\mvc\index.php(12): exception_error_handler(8, 'Undefined varia...', 'F:\xampp\htdocs...', 12, Array)
+#1 {main}
+2014_11_17 02:22:55 error_type:0 Undefined variable: head F:\xampp\htdocs\mvc\views\views.php 14
+2014_11_17 02:41:43  Fatal_error:Class 'Controller_product1' not found_F:\xampp\htdocs\mvc\route\route.php line:12
+2014_11_17 04:18:58 error_type:0 Undefined index: product_id F:\xampp\htdocs\mvc\controller\product.php 6
+2014_11_17 04:19:57  Fatal_error:Uncaught exception 'ErrorException' with message 'Undefined index: product_id' in F:\xampp\htdocs\mvc\controller\product.php:6
+Stack trace:
+#0 F:\xampp\htdocs\mvc\controller\product.php(6): exception_error_handler(8, 'Undefined index...', 'F:\xampp\htdocs...', 6, Array)
+#1 F:\xampp\htdocs\mvc\route\route.php(12): Controller_Product->__construct()
+#2 F:\xampp\htdocs\mvc\index.php(9): route->__construct('product')
+#3 {main}
+  thrown_F:\xampp\htdocs\mvc\controller\product.php line:6
+2014_11_17 04:23:15  Fatal_error:Uncaught exception 'ErrorException' with message 'Undefined index: product_id' in F:\xampp\htdocs\mvc\controller\product.php:7
+Stack trace:
+#0 F:\xampp\htdocs\mvc\controller\product.php(7): exception_error_handler(8, 'Undefined index...', 'F:\xampp\htdocs...', 7, Array)
+#1 F:\xampp\htdocs\mvc\route\route.php(12): Controller_Product->__construct()
+#2 F:\xampp\htdocs\mvc\index.php(9): route->__construct('product')
+#3 {main}
+  thrown_F:\xampp\htdocs\mvc\controller\product.php line:7
+2014_11_17 04:25:03  Fatal_error:Uncaught exception 'ErrorException' with message 'Undefined index: product_id' in F:\xampp\htdocs\mvc\controller\product.php:16
+Stack trace:
+#0 F:\xampp\htdocs\mvc\controller\product.php(16): exception_error_handler(8, 'Undefined index...', 'F:\xampp\htdocs...', 16, Array)
+#1 F:\xampp\htdocs\mvc\route\route.php(12): Controller_Product->__construct()
+#2 F:\xampp\htdocs\mvc\index.php(9): route->__construct('product')
+#3 {main}
+  thrown_F:\xampp\htdocs\mvc\controller\product.php line:16
+2014_11_17 04:25:19  Fatal_error:Uncaught exception 'ErrorException' with message 'Undefined variable: product_list' in F:\xampp\htdocs\mvc\controller\product.php:16
+Stack trace:
+#0 F:\xampp\htdocs\mvc\controller\product.php(16): exception_error_handler(8, 'Undefined varia...', 'F:\xampp\htdocs...', 16, Array)
+#1 F:\xampp\htdocs\mvc\route\route.php(12): Controller_Product->__construct()
+#2 F:\xampp\htdocs\mvc\index.php(9): route->__construct('product')
+#3 {main}
+  thrown_F:\xampp\htdocs\mvc\controller\product.php line:16
+2014_11_17 04:25:57  Fatal_error:Uncaught exception 'ErrorException' with message 'Undefined variable: classFile' in F:\xampp\htdocs\mvc\boot.php:22
+Stack trace:
+#0 F:\xampp\htdocs\mvc\boot.php(22): exception_error_handler(8, 'Undefined varia...', 'F:\xampp\htdocs...', 22, Array)
+#1 [internal function]: autoloader('System_Tools')
+#2 F:\xampp\htdocs\mvc\model\product.php(13): spl_autoload_call('System_Tools')
+#3 F:\xampp\htdocs\mvc\controller\product.php(17): Model_Product->getproducts()
+#4 F:\xampp\htdocs\mvc\route\route.php(12): Controller_Product->__construct()
+#5 F:\xampp\htdocs\mvc\index.php(9): route->__construct('product')
+#6 {main}
+  thrown_F:\xampp\htdocs\mvc\boot.php line:22
+2014_11_17 04:27:18  Fatal_error:Uncaught exception 'ErrorException' with message 'Undefined variable: classFile' in F:\xampp\htdocs\mvc\boot.php:22
+Stack trace:
+#0 F:\xampp\htdocs\mvc\boot.php(22): exception_error_handler(8, 'Undefined varia...', 'F:\xampp\htdocs...', 22, Array)
+#1 [internal function]: autoloader('System_Tools')
+#2 F:\xampp\htdocs\mvc\model\product.php(13): spl_autoload_call('System_Tools')
+#3 F:\xampp\htdocs\mvc\controller\product.php(17): Model_Product->getproducts()
+#4 F:\xampp\htdocs\mvc\route\route.php(12): Controller_Product->__construct()
+#5 F:\xampp\htdocs\mvc\index.php(9): route->__construct('product')
+#6 {main}
+  thrown_F:\xampp\htdocs\mvc\boot.php line:22

@@ -1,0 +1,12 @@
+
+2014_11_17 11:51:31  Fatal_error:Class 'product1' not found_F:\xampp\htdocs\mvc\index.php line:27
+2014_11_17 11:51:33  Fatal_error:Class 'product1' not found_F:\xampp\htdocs\mvc\index.php line:27
+2014_11_17 11:51:46  Fatal_error:Class 'product1' not found_F:\xampp\htdocs\mvc\index.php line:27
+2014_11_17 11:51:46  Fatal_error:Class 'product1' not found_F:\xampp\htdocs\mvc\index.php line:27
+2014_11_17 11:51:46  Fatal_error:Class 'product1' not found_F:\xampp\htdocs\mvc\index.php line:27
+2014_11_17 11:51:47  Fatal_error:Class 'product1' not found_F:\xampp\htdocs\mvc\index.php line:27
+2014_11_17 11:51:47  Fatal_error:Class 'product1' not found_F:\xampp\htdocs\mvc\index.php line:27
+2014_11_17 11:51:47  Fatal_error:Class 'product1' not found_F:\xampp\htdocs\mvc\index.php line:27
+2014_11_17 11:51:47  Fatal_error:Class 'product1' not found_F:\xampp\htdocs\mvc\index.php line:27
+2014_11_17 11:51:47  Fatal_error:Class 'product1' not found_F:\xampp\htdocs\mvc\index.php line:27
+2014_11_17 11:51:47  Fatal_error:Class 'product1' not found_F:\xampp\htdocs\mvc\index.php line:27

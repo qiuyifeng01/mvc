@@ -1,0 +1,9 @@
+@CHARSET UTF-8;
+
+#register_form input{
+    display: block;
+}
+
+#register_form span {
+    display: block;
+}
