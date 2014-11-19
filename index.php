@@ -9,7 +9,9 @@
 
     $route_key=$_REQUEST["route"];
     session_start();
+        echo $route_key;
     $out=new route($route_key);
+
     session_destroy();
     
 //     
